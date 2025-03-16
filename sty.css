@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:white;
+    padding: 20px;
+    
+}
+li,nav,h1{
+    display: inline;
+    font-weight: bold;
+    display: inline block;
+}
+nav{
+    width: 30rem;
+    margin-left: 60%; 
+    justify-content: space-evenly;
+    display: flex;
+    text-decoration: none;
+    color: black;
+
+}
+
+ 
+                            
+
+
+
+
+
+
